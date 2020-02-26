@@ -1,4 +1,22 @@
-h1 {
-  color: hotpink;
-  font-family: cursive;
+body {
+  margin: 0;
+  padding: 0 20px;
+  text-align: center;
+  display: flex;
+  min-width: 100%;
+  min-height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+header {
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+
 }
